@@ -1,0 +1,6 @@
+name = "myjob"
+type = "js"
+main = "server/index.js"
+client-main = "client/index.js"
+client-files = [ "client/*", "html/*" ]
+deps = []
